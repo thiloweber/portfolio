@@ -1,6 +1,6 @@
 # Portfolio Thilo Weber
 
-Hi, my name is Thilo Weber and I am an experienced **machine learning engineer** & **data scientist** with a strong background in **signal processing**, **machine learning** and **software engineering**; expertise in **data modeling**, **AI-powered process automation** and integration of **complex data sources**; experience in **academic research** as well as **industrial applications**, especially in **energy and building related data analytics** and the development of **innovative ML solutions**. I am a **creative developer** of data products and innovative solutions.
+Hi, my name is Thilo Weber, I am an experienced ML engineer & data scientist with a strong background in signal processing, machine learning and software engineering; expertise in data modeling, probabilistic reasoning, AI-powered process automation and integration of complex data sources; experience in academic research as well as industrial applications, especially in renewable energy and the development of innovative ML solutions. I am an intuitive and creative engineer consistently producing innovative solutions and high quality data products.
 
 ## Focus and expertise
 
